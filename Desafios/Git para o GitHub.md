@@ -1,4 +1,4 @@
-# Desafio Git/GitHub[c:red]texto vermelho.[/c]
+# Desafio Git/GitHub
 
 ### *Jogo é Jogo / Treino é Treino*
 
