@@ -1,8 +1,6 @@
-# dio-desafio-github-primeiro-repositório
-Primeiro desafio Bootcamp - Git para GitHub
+# Bootcamp-DIO-<p style="color:orange">Orange-Tech</p>
 
-# Será que dá certo
+Repositório o qual ficará armazenado conteúdo absorvido no primeiro Bootcamp que participei. Além de servir como material de estudos e compartilhar conhecimento, também poderá ser utilizado futuramente para analisar minha evolução.
 
-[Clique aqui](https://github.com/)
+## Deixe sua contribuição nos projetos que desenvolvi e contribua para o meu desenvolvimento profissional :wink:
 
-## Responda se deu certo
